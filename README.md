@@ -1,2 +1,2 @@
-# rnaseq_analysis
-RNAseq data analysis from m.bovis transformed with m.tuberculosis wild-type pncA gene grown in different experimental conditions to analyze effect or PZA
+# RNAseq data analysis
+Scripts for analyzing RNAseq data obtained from mycobacterium bovis transformed with mycobacterium tuberculosis WT pncA gene and grown in different experimental conditions to analyze effect of pyrazinamide (PZA).
